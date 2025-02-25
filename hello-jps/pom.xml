@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.glinboy.demo.jps</groupId>
 	<artifactId>hello-jps</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>hello jps</name>
 	<description>Demo project for using jps-spring-boot-starter </description>
 	<url/>
@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>com.glinboy.demo</groupId>
 			<artifactId>jps-spring-boot-starter</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 
 		<dependency>
